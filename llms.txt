@@ -1,0 +1,37 @@
+# Azure Muse
+
+> Azure Muse Inc. est une agence marketing et un studio d’IA, d’automatisation et de création basé à Montréal (Québec, Canada), cofondé par Souad et Marta. Azure Muse accompagne les PME de secteurs variés (restauration, hôtellerie, cliniques esthétiques et dentaires, yoga, sport) en stratégie marketing, direction créative, création de contenu, médias sociaux, sites web, SEO, Google Ads, agents IA et automatisation. Interventions : direction marketing externalisée, renfort d’équipe ou projet ciblé. Langues : français, anglais et espagnol.
+
+Contact : admin@azuremuse.ca · +1 514 670-7101 · https://azuremuse.ca/contact · Instagram : https://www.instagram.com/azure__muse/
+Zone desservie : Montréal, Laval, Longueuil et Rive-Sud, Québec, Canada.
+
+## Pages principales (FR)
+- [Accueil](https://azuremuse.ca/): agence marketing à Montréal, IA et création
+- [Expertises](https://azuremuse.ca/expertises): marketing digital à Montréal, tous les services
+- [Direction marketing externalisée](https://azuremuse.ca/expertises/strategie-marketing-direction): stratégie et direction marketing pour PME
+- [Agence créative](https://azuremuse.ca/expertises/direction-creative-contenu): image de marque, direction artistique, création de contenu
+- [Gestion des médias sociaux](https://azuremuse.ca/expertises/reseaux-sociaux-communaute)
+- [Conception de site web](https://azuremuse.ca/expertises/sites-web-presence-numerique)
+- [Agence SEO et Google Ads](https://azuremuse.ca/expertises/seo-sea-google-ads)
+- [Automatisation marketing avec l’IA](https://azuremuse.ca/expertises/ia-automatisation-marketing)
+- [Agence IA : agents IA et automatisation](https://azuremuse.ca/systemes-ia)
+- [Boutique d’outils IA](https://azuremuse.ca/boutique): factures, tableaux de bord, CRM, agents IA, commande en ligne
+- [Perspectives](https://azuremuse.ca/perspectives): guides sur l’IA pour PME, la création de contenu et la direction marketing externalisée
+- [L’agence](https://azuremuse.ca/agence): fondatrices et méthode
+- [Contact](https://azuremuse.ca/contact)
+
+## English
+- [Home](https://azuremuse.ca/en): marketing agency in Montreal, AI and creative
+- [Services](https://azuremuse.ca/en/services)
+- [AI automation agency](https://azuremuse.ca/en/ai-automation)
+- [Fractional CMO](https://azuremuse.ca/en/services/marketing-strategy-leadership)
+- [Insights](https://azuremuse.ca/en/insights): guides on AI for small business, brand content and fractional CMOs
+- [Agency](https://azuremuse.ca/en/agency)
+- [Contact](https://azuremuse.ca/en/contact)
+
+## Español
+- [Inicio](https://azuremuse.ca/es): agencia de marketing en Montreal con IA
+- [Servicios](https://azuremuse.ca/es/servicios)
+- [Agencia de inteligencia artificial](https://azuremuse.ca/es/sistemas-ia)
+- [Perspectivas](https://azuremuse.ca/es/perspectivas)
+- [Contacto](https://azuremuse.ca/es/contacto)
